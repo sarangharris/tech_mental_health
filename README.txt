@@ -1,4 +1,4 @@
-Author: Sarang Harris
+Author: Vedant Gandhewar and Sarang Harris
 Date: October 2020
 
 Link to Dataset​: ​https://www.kaggle.com/osmi/mental-health-in-tech-2016
